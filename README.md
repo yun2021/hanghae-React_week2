@@ -33,5 +33,11 @@
 
 <a href="https://sparta-react-basic-b8a83.web.app/"> 💻 과제 배포된 주소 (클릭)</a>
   </br>
+  </br>
+
 ![삭제기능까지](https://user-images.githubusercontent.com/77830226/152679855-db138f96-56ed-4561-9752-10fcd1e1ce23.gif)
+
+</br>
+
+
 ![화면조절](https://user-images.githubusercontent.com/77830226/152679863-f34d757c-f74f-4b85-8b94-babdcfd951be.gif)
